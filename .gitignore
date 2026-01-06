@@ -1,0 +1,14 @@
+# Secretos y Configuración
+.env
+
+# Base de datos local
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
